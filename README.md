@@ -1,6 +1,6 @@
 # Stocks-VBA
 
-## VBA script that iterates through mutliples Excel worksheets (1 per year) to analyze stock data.
+### VBA script that iterates through mutliples Excel worksheets (1 per year) to analyze stock data.
 
 Using ticker symbols for 2,835 stocks on the New York Stock Exchange over the course of 3 years (2014-2016), each year's worksheet demonstrates whether or not the stock made overall gains or losses based on a color code (green: positive, red: negative) using conditional formatting. The total stock volume and percent change are noted next to these color-coded ticker symbols.
 
